@@ -8,8 +8,7 @@ This is an e-commerce project that aims to provide a platform for buying and sel
 
 - HTML
 - CSS
-- JavaScript
-- [Framework/Libraries] (if applicable)
+- Bootstrap
 
 ## Installation
 
@@ -30,7 +29,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-[Specify the license under which the project is distributed]
+MIT License
 
 ## Contact
 
