@@ -6,10 +6,9 @@ This is an e-commerce project that aims to provide a platform for buying and sel
 
 ## Technologies Used
 
-- HTML
-- CSS
-- JavaScript
-- [Framework/Libraries] (if applicable)
+[![HTML5](https://img.shields.io/badge/Built_with-HTML5-E34F26?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) <br>
+[![CSS3](https://img.shields.io/badge/Built_with-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) <br>
+[![Built with Bootstrap](https://img.shields.io/badge/Built_with-Bootstrap-563d7c?style=flat-square&logo=bootstrap)](https://getbootstrap.com/) <br>
 
 ## Installation
 
@@ -30,9 +29,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-[Specify the license under which the project is distributed]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the terms of the MIT License. See the [full license text](https://opensource.org/licenses/MIT) for details.
 
 ## Contact
 
-Andrew Muhn
-Noah Beito
+[Andrew Muhn](https://github.com/andrewmuhn) <br>
+[Noah Beito](https://github.com/noahbeito)
