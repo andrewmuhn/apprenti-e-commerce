@@ -18,11 +18,6 @@ This is an e-commerce project that aims to provide a platform for buying and sel
 3. Open the project in your preferred code editor.
 4. Open the index.html page in live preview
 
-## Usage
-
-1. [Describe how to run the project]
-2. [Provide any necessary instructions or guidelines for using the application]
-
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
@@ -39,4 +34,5 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Contact
 
-[Provide contact information for any inquiries or support]
+Andrew Muhn
+Noah Beito
