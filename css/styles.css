@@ -1,9 +1,22 @@
+nav {
+    margin-bottom: 2em;
+}
+
 .btn-primary {
     background-color: ForestGreen;
 }
 
+.card {
+    padding: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Adjust the values to control the shadow intensity */
+}
+
+.card-img-top {
+    height: 300px;
+}
+
 @media screen and (max-width: 767px) {
     body {
-        font-size: 12px;
+        font-size: 18px;
     }
 }
