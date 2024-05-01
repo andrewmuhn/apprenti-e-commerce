@@ -2,6 +2,10 @@ nav {
     margin-bottom: 2em;
 }
 
+#logo {
+    height: 50px;
+}
+
 .btn-primary {
     /* Bootstap primary button color override */
     background-color: ForestGreen; 
