@@ -20,8 +20,19 @@ nav {
     height: 300px;
 }
 
-@media screen and (max-width: 767px) {
+.small-screen {
+    visibility: hidden;
+}
+
+@media screen and (max-width: 775px) {
     body {
         font-size: 18px;
     }
+    .big-screen {
+        display: none;
+    }
+    .small-screen {
+        visibility: visible;
+    }
 }
+
